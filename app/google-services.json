@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "860210048254",
+    "firebase_url": "https://myfirebase-b219d.firebaseio.com",
+    "project_id": "myfirebase-b219d",
+    "storage_bucket": "myfirebase-b219d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860210048254:android:a690b0a4306cdb51",
+        "android_client_info": {
+          "package_name": "com.example.thinkpad.myfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860210048254-dptmnbqv3bn8sp891rfqireguabo5sso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcX0bQWFVQRJ6r3N4a0NK6H2WsWR1IulE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
